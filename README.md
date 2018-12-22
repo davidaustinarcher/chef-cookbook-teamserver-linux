@@ -1,7 +1,7 @@
 # Contrast-TeamServer Cookbook
 This cookbook installs the Contrast TeamServer on Linux (Debian/Ubuntu or Redhat/Centos platforms) for demonstration purposes.  It is intended to automate the local installation and setup of TeamServer on a Linux VM hosted on a MacBook Pro with 16GB RAM.
 
-*This cookbook was last tested with Contrast TeamServer v3.5.3.*
+*This cookbook was last tested with Contrast TeamServer v3.5.8.*
 
 ## Prerequisites
 You will need to supply your own Contrast TeamServer installer file and license file.  More details about where to place your installer and license files are below.
